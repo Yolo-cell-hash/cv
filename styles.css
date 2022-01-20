@@ -336,10 +336,6 @@ margin: 0;
   padding-left: 8.5rem;
 }
 
-.development{
-  pointer-events: none;
-}
-
 .container-projects .card-projects{
   position: relative;
   cursor: pointer;
